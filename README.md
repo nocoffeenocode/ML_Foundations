@@ -7,3 +7,7 @@ Install Turicreate in virtual env to run. Load jyupter also from the same virtua
 ```source venv/bin/activate``` to be run in Ubuntu command prompt first.
 
 Activate jupyter notebook using ```jupyter notebook``` command or ```py -m notebook```
+
+Week 2:
+Run ```pip install matplotlib``` in virtual env
+Uploaded code file is updated with assignment work and working turicreate code.
